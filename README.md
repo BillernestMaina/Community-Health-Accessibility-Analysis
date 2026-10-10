@@ -61,19 +61,19 @@ ________________________________________
 Results
 Map 1: Health Facility Distribution
 Where are healthcare services located?
-https://maps/Map1_Facility_Distribution.png
+https://mega.nz/file/F7YWgCDC#oSYCgY2Kt0DjHqz74N-UXTowVBXaUZ_CSvoxxebh0e8
 ________________________________________
 Map 2: Population Distribution & Terrain
 Where are populations located relative to terrain?
-https://maps/Map2_Population_Terrain.png
+https://mega.nz/file/F7YWgCDC#oSYCgY2Kt0DjHqz74N-UXTowVBXaUZ_CSvoxxebh0e8
 ________________________________________
 Map 3: Health Accessibility Index
 Which areas have better or worse geographic accessibility?
-https://maps/Map3_Accessibility_Index.png
+https://mega.nz/file/F7YWgCDC#oSYCgY2Kt0DjHqz74N-UXTowVBXaUZ_CSvoxxebh0e8
 ________________________________________
 Map 4: Humanitarian Priority Areas
 Where should further investigation or intervention be prioritized?
-https://maps/Map4_Priority_Areas.png
+https://mega.nz/file/F7YWgCDC#oSYCgY2Kt0DjHqz74N-UXTowVBXaUZ_CSvoxxebh0e8
 ________________________________________
 Key Findings
 Finding	Description
