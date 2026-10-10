@@ -1,0 +1,11 @@
+0. Problem Statement: https://mega.nz/file/RqpC2SwK#-EXQVPRmd8FczwqTG4clsXUN4abOZX30zfzvFwpbkbs
+
+1. Raw Data: https://mega.nz/file/Qzp1QDbK#VOqvzsKJCvLosWtG55ZZN-FppNdyzAmt9IhBshUC-DE
+
+2. Preprocessed Data: https://mega.nz/file/RzZEQS5L#88OPpWgXwXerN_Db03i0Z71HE9KidwU4CZZuYk5nTuY
+
+3. QGIS Project File: https://mega.nz/file/FnBFlCSb#vLrCkXE4NIclw_QHjFJLE_8cysCH8eiLtrpRKhSs0fs
+
+4. Maps (Map 1 - Map 4): https://mega.nz/file/F7YWgCDC#oSYCgY2Kt0DjHqz74N-UXTowVBXaUZ_CSvoxxebh0e8
+
+5. Community Health Accessibility Analysis Video: https://mega.nz/file/43xxEDiA#_0I2UrtC6Yi7_4OKuasnOmPPwi7JTUzo3yS4f3HezJs
