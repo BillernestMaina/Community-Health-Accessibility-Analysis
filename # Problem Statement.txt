@@ -1,0 +1,13 @@
+# Problem Statement
+
+Access to healthcare is influenced by the spatial distribution of health facilities, 
+population, transportation networks, and terrain. This analysis assesses geographic 
+accessibility to health facilities in Nairobi County by examining population 
+distribution, road proximity, facility locations, administrative areas, and elevation.
+
+## Objectives
+1. Where are the health facilities?
+2. Where are the populations?
+3. Which populated areas are relatively close to health facilities and roads?
+4. Which populated areas appear underserved, particularly where terrain may make 
+   physical access more difficult?
